@@ -32,9 +32,8 @@ npm run dev
 | zustand                    |
 
 ### Reference link
-[codesandbox]https://codesandbox.io/p/sandbox/dazzling-moon-itop4
-[dosc.pmnd.rs]https://docs.pmnd.rs/
-[zustand]https://github.com/pmndrs/zustand#typescript-usage
+* [codesandbox](https://codesandbox.io/p/sandbox/dazzling-moon-itop4)<br>
+* [dosc.pmnd.rs](https://docs.pmnd.rs)<br>
+* [zustand](https://github.com/pmndrs/zustand#typescript-usage)
 
-### Demo Video
-[Demo](./video.mkv)
+![](photo.png)
